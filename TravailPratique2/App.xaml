@@ -1,0 +1,9 @@
+﻿<Application x:Class="TravailPratique2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TravailPratique2"
+             StartupUri="Views/IConnexionMed.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
